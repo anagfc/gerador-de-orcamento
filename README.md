@@ -1,6 +1,6 @@
 # gerador-de-orcamento
 
-Gerador de orçamento
+## Gerador de orçamento
 A partir dos dados coletados com o usuário, é gerado um PDF automaticamente
 
 > Projeto desenvolvido usando Python
